@@ -1,0 +1,17 @@
+X:1
+T:At the Jazz Band Ball
+C:1918 Original Dixieland Jazz Band
+M:4/4
+L:1/8
+Q:1/4=160
+K:Bb
+P:Verse
+"Gm"GG2D GG2G|GBG2G4|z2^c2d3=c|BGB2G4|
+"F7"z2FFG2AB-|"Bb"BBA2"G7"G3F|"C7"=E2G2B2dc-|"F7"c4z=EF^F|
+"Gm"GG2D GG2G|GBG2G4|z2d^c d=cBG|BG2G-G4|
+"C7"z2cd cBG2|z2cd cBG2|c2^c2dc2=c-|"F7"c4z=EF^F||
+P:Chorus
+"G7"G2=B2dB2G-|G4zG_GF|"C7"=E2G2BG2d-|d8|
+"F7"z2d2dcAF|cdc2AFGF|"Bb"B2DF A2GF-|F4z=EF^F|
+"G7"GG=B2d2BG-|G4zG_GF|"C7"=EEG2BG2d-|d4zB2G|
+"Eb"B2BB "E°7"AG2G|"Bb"FF^F2"G7"G4|"C7"GB2G"F7"A2dB-|"Bb"B6z2|]
